@@ -1,11 +1,11 @@
 # Arduino
 # Sensor de Temperatura Arduino
 
-![Arduino Logo](link_para_sua_imagem.png)
+
 
 Bem-vindo ao repositório do Sensor de Temperatura Arduino. Este projeto demonstra como criar um sensor de temperatura simples usando Arduino e um sensor de temperatura, como o DS18B20.
 
-[Inserir aqui uma breve descrição do projeto.]
+
 
 ## Conteúdo
 
